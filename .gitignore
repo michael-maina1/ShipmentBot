@@ -1,0 +1,2 @@
+credentials.json  # Ignores your sensitive Google API key file
+__pycache__/      # Ignores Python's temporary cache folders
